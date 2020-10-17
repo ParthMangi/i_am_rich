@@ -28,7 +28,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Last Run
  
-  Flutter 1.20.4 • channel unknown • unknown source
-  Framework • revision fba99f6cf9 (5 weeks ago) • 2020-09-14 15:32:52 -0700
-  Engine • revision d1bc06f032
-  Tools • Dart 2.9.2
+  - Flutter 1.20.4 • channel unknown • unknown source
+  - Framework • revision fba99f6cf9 (5 weeks ago) • 2020-09-14 15:32:52 -0700
+  - Engine • revision d1bc06f032
+  - Tools • Dart 2.9.2
