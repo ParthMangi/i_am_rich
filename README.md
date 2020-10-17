@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## I Am Rich - How to Create Flutter Apps from Scratch (https://github.com/ParthMangi/i_am_rich)
+## I Am Rich - How to Create Flutter Apps from Scratch
 
   - [What is Material Design](https://material.io/)
   - [What is Scaffold](https://docs.flutter.io/flutter/material/Scaffold-class.html)
